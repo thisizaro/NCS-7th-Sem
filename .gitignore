@@ -1,0 +1,16 @@
+# Claude Code per-project state that must NOT sync across machines
+.claude/settings.local.json
+.claude/tool-results/
+.claude/*.jsonl
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+.idea/
+.vscode/
+
+# Scratch
+/tmp/
+*.tmp
