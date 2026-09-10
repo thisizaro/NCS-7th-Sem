@@ -1,4 +1,4 @@
 - [NCS mid-sem exam scope](ncs-mid-sem-exam-scope.md) — mid-sem is Units I & II only; 8-13 September window
 - [Decks don't match the syllabus](ncs-decks-syllabus-mismatch.md) — ch01-ch10 are Stallings crypto; Unit II has no slides
-- [Study material preferences](ncs-study-material-preferences.md) — all four formats; fill mid-sem gaps from own knowledge
+- [Study material preferences](ncs-study-material-preferences.md) - all four formats; mermaid not ASCII; verified links on-topic; fill mid-sem gaps from own knowledge
 - [Memory syncs via this repo](claude-memory-syncs-via-repo.md) — .claude/memory symlinked per machine; run setup-sync.sh

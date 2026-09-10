@@ -21,3 +21,18 @@ of the exam uncovered.
 gaps from TB1 (Stallings 8e) and TB2 (Whitman & Mattord 7e) terminology, since
 those are the prescribed texts. Flag clearly in the notes which sections came
 from outside the decks so he knows what to cross-check with his teacher.
+
+**Diagrams:** no ASCII art. Use **mermaid** fenced blocks (flowchart,
+sequenceDiagram) for anything Claude draws itself. Packet/field layouts are the
+exception: use markdown tables, since mermaid has no packet primitive and a table
+states the encrypted-vs-authenticated spans unambiguously.
+
+**External resources:** he wants them linked *directly on the relevant topic* in
+[[ncs-mid-sem-exam-scope]]'s checklist, not collected in a separate list. Verify
+links with WebSearch/WebFetch before citing, and say which are authoritative
+(RFCs, Cisco) vs calibration-only (Ques10 and other crowd-sourced answers).
+
+**Deep-dive format that worked** (`study/deep-dive-ipsec.md`): why-it-exists
+framing, architecture diagram, mechanism, comparison tables, "how to draw this in
+the exam", answer skeletons per mark-value, then vetted resources with a
+"what to skip" note.
