@@ -11,6 +11,8 @@
 | [cheatsheet-tables-diagrams.md](cheatsheet-tables-diagrams.md) | **Final-hours revision** — every table and diagram on one page |
 | [flashcards.md](flashcards.md) | Rapid self-testing; cover the right column |
 | [practice-qa.md](practice-qa.md) | Model answers at 2 / 5 / 10-mark length + D-H numericals |
+| [mid-sem-topic-checklist.md](mid-sem-topic-checklist.md) | **Complete topic inventory** for Units I + II, tickable, with resource links |
+| [deep-dive-ipsec.md](deep-dive-ipsec.md) | Deep dive on IPsec AH/ESP/modes/IKE (checklist topics 7-8), mermaid diagrams |
 
 ## Where the material came from
 
